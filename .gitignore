@@ -1,0 +1,13 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Saved models (can be large)
+*.h5
+
+# Environment files
+.venv/
+venv/
